@@ -15,3 +15,13 @@
 body {
 	padding-top: 40px;
 }
+
+.alert{
+
+	margin: 10px;
+}
+
+.notice{
+
+  margin: 10px;
+}
